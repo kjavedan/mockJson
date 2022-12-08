@@ -10,5 +10,9 @@
     "post": {
       "belongsTo": "Post"
     }
-  }
+  },
+  "Mobile": [
+    "apple",
+    "samsung"
+    ]
 }
