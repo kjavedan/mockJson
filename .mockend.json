@@ -11,8 +11,8 @@
       "belongsTo": "Post"
     }
   },
-  "Mobile": [
-    "apple",
-    "samsung"
-    ]
+  "Mobile": {
+    "title": "apple",
+    "price": "199"
+  }
 }
