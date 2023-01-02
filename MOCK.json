@@ -1,0 +1,375 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "BEATS FIT PRO True Wireless Headphones",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/DwBP14jV/1.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "bluetooth": true,
+        "batteryLife": 12
+      }
+    },
+    {
+      "id": 2,
+      "title": "Iphone 13 Duel 16RAM 12MP Camera 6IN screen 256Memory...",
+      "rate": 3.8,
+      "raters": 167,
+      "discount": 0,
+      "availability": 0,
+      "isFreeDelivery": false,
+      "price": 1320,
+      "img": "https://i.postimg.cc/pTRFPn7B/100.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "blue",
+          "black"
+        ],
+        "RAM": 16,
+        "screenSize": 6,
+        "camera": 3,
+        "reselotion": 12,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Poco X4 Pro 5G 2201116PG Dual SIM 256GB And 8GB RAM Mobile Phone",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/xdqmDD7J/1.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "blue",
+          "green",
+          "yellow"
+        ],
+        "RAM": 32,
+        "screenSize": 6,
+        "camera": 3,
+        "reselotion": 12,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 4,
+      "title": "Logitech K380 Keyboard",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/0QX63jzr/3.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "bluetooth": true,
+        "batteryLife": 12
+      }
+    },
+    {
+      "id": 5,
+      "title": "Microsoft All-in-One Media Wireless Keyboard",
+      "rate": 3.8,
+      "raters": 167,
+      "discount": 0,
+      "availability": 0,
+      "isFreeDelivery": false,
+      "price": 1320,
+      "img": "https://i.postimg.cc/nr3v4m9L/74.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "black"
+        ],
+        "bluetooth": true,
+        "batteryLife": 6
+      }
+    },
+    {
+      "id": 6,
+      "title": "Stant Dipon - A112(Steel)",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/rwQ41Pt2/1.png",
+      "images": [
+        "https://i.postimg.cc/1tNNZR7y/2.png",
+        "https://i.postimg.cc/3xJ4xFfS/10.png",
+        "https://i.postimg.cc/htyJzQHS/11.png"
+      ],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "category": "laptop"
+      }
+    },
+    {
+      "id": 7,
+      "title": "GLINK Memory",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/jj27Z4zw/4.png",
+      "images": [
+        "https://i.postimg.cc/jj27Z4zw/4.png",
+        "https://i.postimg.cc/j20nqVBP/5.png"
+      ],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "category": "memory"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Ultra Dual Drive GO USB Type-C 64GB",
+      "rate": 3.8,
+      "raters": 167,
+      "discount": 0,
+      "availability": 0,
+      "isFreeDelivery": false,
+      "price": 1320,
+      "img": "https://i.postimg.cc/Wbmg33N3/6.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "black"
+        ],
+        "category": "memory"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Iphone 13promax Duel 32RAM 16MP Camera 6IN screen 256Memory...",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/ZKTVwW5p/77.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "blue",
+          "green",
+          "yellow"
+        ],
+        "RAM": 32,
+        "screenSize": 6,
+        "camera": 3,
+        "reselotion": 12,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 10,
+      "title": "HP Victus 15-FA0031DX-A 15.6 inch laptop - Customized",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/RZmjxGPc/1.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "RAM": 32,
+        "screenSize": 6,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 11,
+      "title": "microsoft Mouse Arctic",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/D0bv4s91/51.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "bluetooth": true,
+        "batteryLife": 12
+      }
+    },
+    {
+      "id": 12,
+      "title": "Apple AirPods Pro 2nd generation Wireless Headphones with Charging case",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/4y30b1Jc/1.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "bluetooth": true,
+        "batteryLife": 12
+      }
+    },
+    {
+      "id": 13,
+      "title": "HP Victus 15-FA0031DX 15.6 inch laptop",
+      "rate": 3.8,
+      "raters": 167,
+      "discount": 0,
+      "availability": 0,
+      "isFreeDelivery": false,
+      "price": 1320,
+      "img": "https://i.postimg.cc/vHfpKCvY/2.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "black"
+        ],
+        "RAM": 16,
+        "screenSize": 6,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 14,
+      "title": "Apple MacBook Air MGN63 2020 - 13 inch Laptop",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/W4tk4tMN/3.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "RAM": 32,
+        "screenSize": 6,
+        "memory": 256,
+        "CPU": 3
+      }
+    },
+    {
+      "id": 15,
+      "title": "Apple Magic Mouse 2",
+      "rate": 4.8,
+      "raters": 150,
+      "discount": 20,
+      "availability": 7,
+      "isFreeDelivery": true,
+      "price": 2838,
+      "img": "https://i.postimg.cc/Sxbs8TNR/63.png",
+      "images": [],
+      "info": {
+        "colors": [
+          "gray",
+          "silver"
+        ],
+        "bluetooth": true,
+        "batteryLife": 12
+      }
+    } 
+  ],
+  "sidebar": [
+    {
+      "title": "Filters",
+      "data": [
+        {
+          "title": "Categories",
+          "icon": "ri-collage-fill",
+          "children": [
+            "mobile",
+            "laptop",
+            "memory",
+            "keyboard",
+            "mouse"
+          ]
+        },
+        {
+          "title": "Brands",
+          "icon": "ri-apple-fill",
+          "children": [
+            "apple",
+            "microsoft",
+            "logitech",
+            "samsung",
+            "Xiaomi"
+
+          ]
+        },
+        {
+          "title": "Colors",
+          "icon": "ri-paint-fill",
+          "children": [
+            "black",
+            "gray",
+            "blue",
+            "purpul"
+          ]
+        },
+        {
+          "title": "Only available",
+          "icon": "",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

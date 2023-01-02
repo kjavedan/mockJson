@@ -1,18 +1,23 @@
 {
-    "products": [
+  "products": [
     {
       "id": 1,
-      "title": "Apple 13pro Duel 32RAM 16MP Camera 6IN screen 256Memory...",
-      "rate": 2.8,
+      "title": "Samsung Galaxy S22 Ultra 5G Dual SIM 256GB With 12GB RAM Mobile Phone Snapdragon version",
+      "rate": 4.8,
       "raters": 150,
-      "discount": 45,
-      "availability": 32,
+      "discount": 20,
+      "availability": 7,
       "isFreeDelivery": true,
       "price": 2838,
-      "img": "https://i.postimg.cc/ZKTVwW5p/77.png",
+      "img": "https://i.postimg.cc/9FKwrkK0/104.png",
       "images": [],
       "info": {
-        "colors": ["gray", "blue", "green","yellow"],
+        "colors": [
+          "gray",
+          "blue",
+          "green",
+          "yellow"
+        ],
         "RAM": 32,
         "screenSize": 6,
         "camera": 3,
@@ -23,17 +28,20 @@
     },
     {
       "id": 2,
-      "title": "Apple 13pro Duel 16RAM 12MP Camera 6IN screen 256Memory...",
+      "title": "Samsung Galaxy A13 SM-A137F/DS Dual SIM 64GB And 4GB RAM Mobile Phone",
       "rate": 3.8,
       "raters": 167,
-      "discount": 40,
-      "availability": 56,
+      "discount": 0,
+      "availability": 0,
       "isFreeDelivery": false,
       "price": 1320,
-      "img": "https://i.postimg.cc/jS1cqvQ4/79.png",
+      "img": "https://i.postimg.cc/9FKb8JrY/1.png",
       "images": [],
       "info": {
-        "colors": ["blue", "black"],
+        "colors": [
+          "blue",
+          "black"
+        ],
         "RAM": 16,
         "screenSize": 6,
         "camera": 3,
@@ -44,17 +52,21 @@
     },
     {
       "id": 3,
-      "title": "Otcom",
+      "title": "Samsung Galaxy A33 5G SM-A336 Dual SIM 128GB And 6GB RAM Mobile Phone",
       "rate": 3,
       "raters": 386,
       "discount": null,
       "availability": null,
       "isFreeDelivery": false,
       "price": 6777,
-      "img": "http://dummyimage.com/191x100.png/dddddd/000000",
+      "img": "https://i.postimg.cc/tg0rT2b4/2.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -65,17 +77,21 @@
     },
     {
       "id": 4,
-      "title": "Aerified",
+      "title": "Samsung Galaxy A13 Dual SIM 64GB And 4GB RAM Mobile Phone with charger",
       "rate": 4.2,
       "raters": 127,
       "discount": 31,
       "availability": null,
       "isFreeDelivery": true,
       "price": 3998,
-      "img": "http://dummyimage.com/131x100.png/dddddd/000000",
+      "img": "https://i.postimg.cc/L50DMVvR/4.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -86,17 +102,21 @@
     },
     {
       "id": 5,
-      "title": "Bamity",
+      "title": "Samsung Galaxy S20 FE 5G SM-G781B/DS Dual SIM 128GB And 8GB RAM Mobile Phone",
       "rate": 3,
       "raters": 273,
       "discount": 50,
       "availability": 48,
       "isFreeDelivery": false,
       "price": 3761,
-      "img": "http://dummyimage.com/150x100.png/cc0000/ffffff",
+      "img": "https://i.postimg.cc/rFPZ6qYW/5.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -107,17 +127,21 @@
     },
     {
       "id": 6,
-      "title": "Span",
+      "title": "Samsung Galaxy A33 5G SM-A336E/DSN Dual SIM 128GB And 8GB RAM Mobile Phone",
       "rate": 2.6,
       "raters": 322,
       "discount": 26,
       "availability": 97,
       "isFreeDelivery": false,
       "price": 193,
-      "img": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+      "img": "https://i.postimg.cc/9FKb8JrY/1.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -128,17 +152,21 @@
     },
     {
       "id": 7,
-      "title": "Zontrax",
-      "rate": 3.6,
-      "raters": 367,
-      "discount": 47,
-      "availability": 61,
+      "title": "Samsung Galaxy A32 SM-A325F/DS Dual Sim 128GB And 8GB RAM Mobile Phone",
+      "rate": 2.6,
+      "raters": 322,
+      "discount": null,
+      "availability": 97,
       "isFreeDelivery": false,
-      "price": 4025,
-      "img": "http://dummyimage.com/205x100.png/cc0000/ffffff",
+      "price": 193,
+      "img": "https://i.postimg.cc/gcMNRYp5/6.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -149,17 +177,21 @@
     },
     {
       "id": 8,
-      "title": "Pannier",
-      "rate": 3.1,
-      "raters": 482,
-      "discount": 28,
-      "availability": 88,
-      "isFreeDelivery": true,
-      "price": 6955,
-      "img": "http://dummyimage.com/116x100.png/cc0000/ffffff",
+      "title": "Samsung Galaxy S22 Plus 5G Dual SIM 256GB And 8GB RAM Mobile Phone Snapdragon version",
+      "rate": 2.6,
+      "raters": 322,
+      "discount": null,
+      "availability": 97,
+      "isFreeDelivery": false,
+      "price": 193,
+      "img": "https://i.postimg.cc/hPfM1HPG/7.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -170,17 +202,21 @@
     },
     {
       "id": 9,
-      "title": "Alphazap",
-      "rate": 2.8,
-      "raters": 186,
-      "discount": 26,
-      "availability": 99,
+      "title": "Samsung Galaxy A52 Dual SIM 128GB And 8GB Ram Mobile Phone",
+      "rate": 3.6,
+      "raters": 322,
+      "discount": null,
+      "availability": 97,
       "isFreeDelivery": false,
-      "price": 5719,
-      "img": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
+      "price": 999,
+      "img": "https://i.postimg.cc/mDmNQSvM/10.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -191,17 +227,21 @@
     },
     {
       "id": 10,
-      "title": "Solarbreeze",
-      "rate": 2.1,
-      "raters": 369,
-      "discount": 54,
-      "availability": 13,
+      "title": "Samsung Galaxy A52 Dual SIM 128GB And 8GB Ram Mobile Phone",
+      "rate": 4.7,
+      "raters": 23,
+      "discount": null,
+      "availability": 12,
       "isFreeDelivery": false,
-      "price": 4050,
-      "img": "http://dummyimage.com/187x100.png/cc0000/ffffff",
+      "price": 193,
+      "img": "https://i.postimg.cc/NMBp8F5h/9.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -212,17 +252,21 @@
     },
     {
       "id": 11,
-      "title": "Domainer",
-      "rate": 4,
-      "raters": 369,
+      "title": "Samsung Galaxy Note 20 Ultra 5G SM-N986 Dual SIM 256GB Mobile Phone",
+      "rate": 4.6,
+      "raters": 62,
       "discount": null,
-      "availability": 95,
+      "availability": 1,
       "isFreeDelivery": false,
-      "price": 6285,
-      "img": "http://dummyimage.com/133x100.png/cc0000/ffffff",
+      "price": 1999,
+      "img": "https://i.postimg.cc/3x2XL7M3/11.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "red",
+          "blue",
+          "green"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -233,815 +277,19 @@
     },
     {
       "id": 12,
-      "title": "Solarbreeze",
-      "rate": 4.9,
-      "raters": 448,
-      "discount": null,
-      "availability": 11,
-      "isFreeDelivery": false,
-      "price": 1616,
-      "img": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 13,
-      "title": "Flowdesk",
-      "rate": 2.3,
-      "raters": 327,
-      "discount": 25,
-      "availability": 12,
-      "isFreeDelivery": false,
-      "price": 1636,
-      "img": "http://dummyimage.com/178x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 14,
-      "title": "Y-find",
-      "rate": 3.2,
-      "raters": 367,
-      "discount": 51,
-      "availability": 23,
-      "isFreeDelivery": true,
-      "price": 4436,
-      "img": "http://dummyimage.com/217x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 15,
-      "title": "Sonair",
-      "rate": 3.4,
-      "raters": 13,
-      "discount": null,
-      "availability": 16,
-      "isFreeDelivery": false,
-      "price": 4381,
-      "img": "http://dummyimage.com/222x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 16,
-      "title": "Span",
-      "rate": 2.7,
-      "raters": 132,
-      "discount": 5,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 4125,
-      "img": "http://dummyimage.com/210x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 17,
-      "title": "Mat Lam Tam",
-      "rate": 3.1,
-      "raters": 106,
-      "discount": 11,
-      "availability": 8,
-      "isFreeDelivery": false,
-      "price": 1656,
-      "img": "http://dummyimage.com/240x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 18,
-      "title": "Tresom",
-      "rate": 4.8,
-      "raters": 202,
-      "discount": null,
-      "availability": 61,
-      "isFreeDelivery": false,
-      "price": 3694,
-      "img": "http://dummyimage.com/114x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 19,
-      "title": "Y-Solowarm",
-      "rate": 2.5,
-      "raters": 56,
-      "discount": null,
-      "availability": 36,
-      "isFreeDelivery": false,
-      "price": 1129,
-      "img": "http://dummyimage.com/161x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 20,
-      "title": "Daltfresh",
-      "rate": 3.3,
-      "raters": 12,
-      "discount": null,
-      "availability": null,
-      "isFreeDelivery": false,
-      "price": 7962,
-      "img": "http://dummyimage.com/119x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 21,
-      "title": "Fix San",
-      "rate": 3.2,
-      "raters": 64,
-      "discount": null,
-      "availability": 53,
-      "isFreeDelivery": false,
-      "price": 6348,
-      "img": "http://dummyimage.com/102x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 22,
-      "title": "Matsoft",
-      "rate": 4.6,
-      "raters": 487,
-      "discount": 59,
-      "availability": 87,
-      "isFreeDelivery": false,
-      "price": 5351,
-      "img": "http://dummyimage.com/245x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 23,
-      "title": "Stim",
-      "rate": 4.7,
-      "raters": 447,
-      "discount": null,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 2592,
-      "img": "http://dummyimage.com/193x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 24,
-      "title": "Biodex",
-      "rate": 3.9,
-      "raters": 139,
-      "discount": null,
-      "availability": 2,
-      "isFreeDelivery": false,
-      "price": 3789,
-      "img": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 25,
-      "title": "Andalax",
-      "rate": 4.9,
-      "raters": 327,
-      "discount": null,
-      "availability": 25,
-      "isFreeDelivery": true,
-      "price": 346,
-      "img": "http://dummyimage.com/212x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 26,
-      "title": "Tampflex",
-      "rate": 3.3,
-      "raters": 279,
-      "discount": null,
-      "availability": 89,
-      "isFreeDelivery": true,
-      "price": 2496,
-      "img": "http://dummyimage.com/156x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 27,
-      "title": "Duobam",
-      "rate": 2,
-      "raters": 114,
-      "discount": null,
-      "availability": 78,
-      "isFreeDelivery": true,
-      "price": 1700,
-      "img": "http://dummyimage.com/163x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 28,
-      "title": "Kanlam",
+      "title": "Samsung Sm_B315E Dual SIM Mobile Phone",
       "rate": 5,
-      "raters": 363,
+      "raters": 978,
       "discount": null,
-      "availability": 15,
+      "availability": 0,
       "isFreeDelivery": false,
-      "price": 1966,
-      "img": "http://dummyimage.com/221x100.png/cc0000/ffffff",
+      "price": 193,
+      "img": "https://i.postimg.cc/85Yfpn8y/12.png",
       "images": [],
       "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 29,
-      "title": "Stringtough",
-      "rate": 3.6,
-      "raters": 139,
-      "discount": null,
-      "availability": 10,
-      "isFreeDelivery": false,
-      "price": 5758,
-      "img": "http://dummyimage.com/147x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 30,
-      "title": "Flowdesk",
-      "rate": 3.3,
-      "raters": 16,
-      "discount": null,
-      "availability": 93,
-      "isFreeDelivery": true,
-      "price": 2979,
-      "img": "http://dummyimage.com/221x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 31,
-      "title": "Zaam-Dox",
-      "rate": 2.8,
-      "raters": 452,
-      "discount": null,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 7617,
-      "img": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 32,
-      "title": "Ronstring",
-      "rate": 2.6,
-      "raters": 293,
-      "discount": null,
-      "availability": 51,
-      "isFreeDelivery": false,
-      "price": 2359,
-      "img": "http://dummyimage.com/106x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 33,
-      "title": "Redhold",
-      "rate": 2.6,
-      "raters": 24,
-      "discount": null,
-      "availability": 41,
-      "isFreeDelivery": false,
-      "price": 4891,
-      "img": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 34,
-      "title": "Veribet",
-      "rate": 4,
-      "raters": 37,
-      "discount": 55,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 1108,
-      "img": "http://dummyimage.com/141x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 35,
-      "title": "Bitchip",
-      "rate": 3.5,
-      "raters": 89,
-      "discount": null,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 6196,
-      "img": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 36,
-      "title": "Temp",
-      "rate": 4.5,
-      "raters": 26,
-      "discount": null,
-      "availability": 3,
-      "isFreeDelivery": true,
-      "price": 7304,
-      "img": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 37,
-      "title": "Stringtough",
-      "rate": 2.3,
-      "raters": 110,
-      "discount": null,
-      "availability": 29,
-      "isFreeDelivery": true,
-      "price": 6444,
-      "img": "http://dummyimage.com/183x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 38,
-      "title": "Pannier",
-      "rate": 4.2,
-      "raters": 127,
-      "discount": 38,
-      "availability": 40,
-      "isFreeDelivery": false,
-      "price": 7809,
-      "img": "http://dummyimage.com/162x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 39,
-      "title": "Tres-Zap",
-      "rate": 2.8,
-      "raters": 166,
-      "discount": null,
-      "availability": 49,
-      "isFreeDelivery": false,
-      "price": 2759,
-      "img": "http://dummyimage.com/114x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 40,
-      "title": "Wrapsafe",
-      "rate": 2.8,
-      "raters": 58,
-      "discount": 10,
-      "availability": 68,
-      "isFreeDelivery": true,
-      "price": 2107,
-      "img": "http://dummyimage.com/134x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 41,
-      "title": "Stim",
-      "rate": 2.6,
-      "raters": 290,
-      "discount": null,
-      "availability": 49,
-      "isFreeDelivery": false,
-      "price": 2318,
-      "img": "http://dummyimage.com/163x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 42,
-      "title": "Tresom",
-      "rate": 4.4,
-      "raters": 21,
-      "discount": 30,
-      "availability": 99,
-      "isFreeDelivery": false,
-      "price": 7275,
-      "img": "http://dummyimage.com/177x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 43,
-      "title": "Cookley",
-      "rate": 2.4,
-      "raters": 247,
-      "discount": null,
-      "availability": 21,
-      "isFreeDelivery": true,
-      "price": 7503,
-      "img": "http://dummyimage.com/147x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 44,
-      "title": "Gembucket",
-      "rate": 4.1,
-      "raters": 194,
-      "discount": 17,
-      "availability": 69,
-      "isFreeDelivery": false,
-      "price": 4584,
-      "img": "http://dummyimage.com/233x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 45,
-      "title": "Pannier",
-      "rate": 4.2,
-      "raters": 148,
-      "discount": null,
-      "availability": 90,
-      "isFreeDelivery": true,
-      "price": 7516,
-      "img": "http://dummyimage.com/182x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 46,
-      "title": "Cardguard",
-      "rate": 4.3,
-      "raters": 279,
-      "discount": 57,
-      "availability": null,
-      "isFreeDelivery": true,
-      "price": 6787,
-      "img": "http://dummyimage.com/128x100.png/ff4444/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 47,
-      "title": "Wrapsafe",
-      "rate": 2.7,
-      "raters": 460,
-      "discount": null,
-      "availability": 19,
-      "isFreeDelivery": true,
-      "price": 1310,
-      "img": "http://dummyimage.com/189x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 48,
-      "title": "Cardify",
-      "rate": 3.9,
-      "raters": 206,
-      "discount": null,
-      "availability": 80,
-      "isFreeDelivery": false,
-      "price": 4909,
-      "img": "http://dummyimage.com/197x100.png/cc0000/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 49,
-      "title": "Daltfresh",
-      "rate": 2.6,
-      "raters": 300,
-      "discount": null,
-      "availability": 17,
-      "isFreeDelivery": false,
-      "price": 1234,
-      "img": "http://dummyimage.com/141x100.png/dddddd/000000",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
-        "RAM": 12,
-        "screenSize": 6,
-        "camera": 3,
-        "reselotion": 12,
-        "memory": 256,
-        "CPU": 3
-      }
-    },
-    {
-      "id": 50,
-      "title": "Rank",
-      "rate": 2.1,
-      "raters": 256,
-      "discount": null,
-      "availability": 8,
-      "isFreeDelivery": true,
-      "price": 3483,
-      "img": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
-      "images": [],
-      "info": {
-        "colors": ["red", "blue", "green"],
+        "colors": [
+          "blue"
+        ],
         "RAM": 12,
         "screenSize": 6,
         "camera": 3,
@@ -1051,8 +299,97 @@
       }
     }
   ],
-    "sidebar":[
-
-    ]
-    
+  "sidebar": [
+    {
+      "title": "Filters",
+      "data": [
+        {
+          "title": "Colors",
+          "icon": "ri-paint-fill",
+          "children": [
+            "black",
+            "white",
+            "blue",
+            "red",
+            "green",
+            "gray"
+          ]
+        },
+        {
+          "title": "Camera",
+          "icon": "ri-camera-fill",
+          "children": [
+            "0 comera",
+            " 1 camera",
+            "2 comera",
+            "3 comera"
+          ]
+        },
+        {
+          "title": "resolution",
+          "icon": "ri-camera-lens-fill",
+          "children": [
+            "5MP",
+            "8MP",
+            "12MP",
+            "20MP",
+            "40MP",
+            "48MP"
+          ]
+        },
+        {
+          "title": "RAM",
+          "icon": "ri-window-2-fill",
+          "children": [
+            "2GB",
+            "4GB",
+            "6GB",
+            "8GB",
+            "16GB",
+            "32GB"
+          ]
+        },
+        {
+          "title": "Memory",
+          "icon": "ri-hard-drive-line",
+          "children": [
+            "64GB",
+            "256GB",
+            "512GB",
+            "1TB"
+          ]
+        },
+        {
+          "title": "CPU",
+          "icon": "ri-cpu-line",
+          "children": [
+            "3 core",
+            "5 core",
+            "7 core",
+            "9 core",
+            "m1 chip",
+            "m2 chip"
+          ]
+        },
+        {
+          "title": "Screen Size",
+          "icon": "ri-fullscreen-line",
+          "children": [
+            "3 to 4 inch",
+            "3 to 5 inch",
+            "5 to 6 inch",
+            "6 to 7 inch",
+            "13 to 14 inch",
+            "14 to 17 inch",
+            "> 17 inch"
+          ]
+        },
+        {
+          "title": "Only available",
+          "icon": "",
+          "children": []
+        }
+      ]
+    }
+  ]
 }
